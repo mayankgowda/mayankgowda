@@ -13,7 +13,7 @@
 -   
 - 📫 How to reach me ...
 -   1. Email: mayankgowda@gmail.com
--   2. LinkedIn: Mayank Gowda
+-   2. LinkedIn: Mayank Gowda [ https://www.linkedin.com/in/mayank-gowda/ ]
 -   3. WhatsApp/Mobile: +1 (412) 892-0743
 
 <!---
