@@ -1,3 +1,7 @@
+ALL CODE AND REPOSITORIES ARE PRIVATE.
+If you are a RECRUITER, kindly get in touch with me to get access to my repos. 
+If you are a current STUDENT trying to access code for reference, kindly put your time to better use.
+
 - 👋 Hi, I’m @mayankgowda [Mayank Ravishankara]
 - 👀 I’m interested in ...
 -   1. Backend Engineering
