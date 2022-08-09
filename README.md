@@ -1,6 +1,7 @@
-ALL CODE AND REPOSITORIES ARE PRIVATE.
+ALL CODE AND REPOSITORIES ARE PRIVATE TO PREVENT ACADEMIC PLAGIARISM.
 If you are a RECRUITER, kindly get in touch with me to get access to my repos. 
-If you are a current STUDENT trying to access code for reference, kindly put your time to better use.
+
+Please visit my personal portfolio website http://mayankgowda.github.io to know more about me.
 
 - 👋 Hi, I’m @mayankgowda [Mayank Ravishankara]
 - 👀 I’m interested in ...
